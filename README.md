@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eno-song
 - 👀 I’m interested in coding, horse riding, sking, gaming and Lexus 
 - 🌱 I’m currently learning everything in the world
-- 💞️ I’m looking to collaborate on humanbeings
-- 📫 How to reach me by many ways if you do some research
+- 💞️ I’m looking to collaborate on human beings
+- 📫 How to reach me by many ways if you do some research on me
 
 <!---
 eno-song/eno-song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
